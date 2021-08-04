@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Happy</string>
+    <string name="call">call</string>
+    <string name="emergence_call_setting">紧急通话设置</string>
+    <string name="emergence_gms_setting">紧急短信设置</string>
+    <string name="add">添加</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="emergence_call">紧急电话</string>
+    <string name="emergence_contact">紧急联系人设置</string>
+    <string name="GmsReceiver">短信发送方</string>
+</resources>
