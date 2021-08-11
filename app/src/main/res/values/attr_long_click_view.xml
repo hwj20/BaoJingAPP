@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LongClickView">
+        <attr name="maxSeconds" format="integer" />
+        <attr name="annulusWidth" format="integer" />
+        <attr name="annulusColor" format="color" />
+        <attr name="delayMilliseconds" format="integer" />
+    </declare-styleable>
+</resources>

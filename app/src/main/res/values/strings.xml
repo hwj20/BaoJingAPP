@@ -9,4 +9,6 @@
     <string name="emergence_call">紧急电话</string>
     <string name="emergence_contact">紧急联系人设置</string>
     <string name="GmsReceiver">短信发送方</string>
+    <string name="card_select">电话卡选择</string>
+    <string name="setting">设置</string>
 </resources>
